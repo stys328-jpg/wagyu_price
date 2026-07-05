@@ -60,3 +60,6 @@ footer {
 .card {
   border-radius: 0;
 }
+.btn.btn-lg {
+  background: #17a2b8;
+}
