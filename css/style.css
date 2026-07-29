@@ -10,6 +10,10 @@ a:hover {
   color: #ddd;
   text-decoration: none;
 }
+.card:hover{
+  background-color:#17a2b8;
+
+}
 
 p {
   color: #fff;
